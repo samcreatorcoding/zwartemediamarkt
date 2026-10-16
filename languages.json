@@ -1,0 +1,19 @@
+
+{
+  "en": {
+    "choose_language": "Choose a language:",
+    "select_file": "Select a fragmented file:",
+    "invalid_choice": "Invalid selection. Try again.",
+    "no_files": "No fragmented files found.",
+    "success": "Operation completed successfully.",
+    "cancel": "Press Enter to cancel."
+  },
+  "nl": {
+    "choose_language": "Kies een taal:",
+    "select_file": "Kies een gefragmenteerd bestand:",
+    "invalid_choice": "Ongeldige keuze. Probeer opnieuw.",
+    "no_files": "Geen gefragmenteerde bestanden gevonden.",
+    "success": "Bewerking succesvol voltooid.",
+    "cancel": "Druk op Enter om te annuleren."
+  }
+}
